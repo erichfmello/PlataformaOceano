@@ -20,7 +20,7 @@ namespace WebApi.Controllers
                     return response;
                 }
 
-                response.Items = new Core.Business.KartBusiness().KartPilotList(request.RaceID, request.TunrsEnum);
+                response.Items = new Core.Business.KartBusiness().KartPilotList(request.RaceID);
                 response.Succsess = true;
                 response.Message = "Consulta realizada com sucesso.";
 

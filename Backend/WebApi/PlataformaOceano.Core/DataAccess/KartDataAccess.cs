@@ -10,11 +10,10 @@ namespace Core.DataAccess
         {
         }
 
-        public List<Kart> KartPilotList(int raceID, TunrsEnum tunrsEnum)
+        public List<Kart> KartPilotList(int raceID)
         {
             DynamicParameters parameters = new DynamicParameters();
             parameters.Add("RaceID", raceID);
-            parameters.Add("Turns", tunrsEnum);
 
             return new Utils.Database().ExecuteQuery<Kart>("KartPilotList", parameters);
         }

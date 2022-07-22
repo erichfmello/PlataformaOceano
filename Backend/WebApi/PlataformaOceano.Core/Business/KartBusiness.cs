@@ -10,9 +10,9 @@ namespace Core.Business
         {
         }
 
-        public List<Kart> KartPilotList(int raceID, TunrsEnum tunrsEnum)
+        public List<Kart> KartPilotList(int raceID)
         {
-            return new KartDataAccess().KartPilotList(raceID, tunrsEnum);
+            return new KartDataAccess().KartPilotList(raceID);
         }
     }
 }

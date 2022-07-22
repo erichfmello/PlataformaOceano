@@ -4,21 +4,22 @@ GO
 
 CREATE PROC KartPilotList (
 	@RaceID INT
-	,@Turns INT
 ) AS
 BEGIN 
 	SELECT
 		P.PilotID		[PilotID]
 		,P.[Name]		[Name]
-		,R.Turns		[Turns]
+		,DATEADD(ms, SUM(DATEDIFF(ms, '00:00:00.000', R.TurnsTime)), '00:00:00.000') [TotalTime]
 	FROM KartPilot P (NOLOCK)
 	INNER JOIN KartRace R (NOLOCK) ON P.PilotID = R.PilotID
 	WHERE 
 		R.RaceID = @RaceID
-		AND R.Turns = @Turns
+	GROUP BY
+		P.PilotID
+		,P.[Name]
 	ORDER BY
-		R.FinishTime
+		TotalTime
 END
 GO
 
-EXEC KartPilotList 1, 4
+EXEC KartPilotList 1
