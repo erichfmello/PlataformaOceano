@@ -1,0 +1,29 @@
+<div class="home">
+    <!-- <div>Posição</div>
+    <div>Código</div>
+    <div>Nome</div>
+    <div>Voltas completadas</div>
+    <div>Tempo total</div> -->
+    <!-- <label class="pilot" *ngFor="let kart of karts; let i = index" >{{i + 1}}</label>
+    <label class="pilot" *ngFor="let kart of karts; let i = index">{{kart.pilotID}}</label>
+    <label class="pilot" *ngFor="let kart of karts; let i = index">{{kart.name}}</label>
+    <label class="pilot" *ngFor="let kart of karts; let i = index">4</label>
+    <label class="pilot" *ngFor="let kart of karts; let i = index">{{kart.totalTime}}</label> -->
+
+    <table class="table">
+        <tr>
+            <th>Posição</th>
+            <th>Código</th>
+            <th>Nome</th>
+            <th>Voltas completadas</th>
+            <th>Tempo total</th>
+        </tr>
+        <tr *ngFor="let kart of karts; let i = index" class="lines">
+          <td>{{i + 1}}</td>
+          <td>{{kart.pilotID}}</td>
+          <td>{{kart.name}}</td>
+          <td>4</td>
+          <td>{{kart.totalTime}}</td>
+        </tr>
+    </table>
+</div>

@@ -13,3 +13,4 @@ C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj
 C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj\Debug\net5.0\ref\PlataformaOceano.Models.dll
 C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj\Debug\net5.0\PlataformaOceano.Models.pdb
 C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj\Debug\net5.0\PlataformaOceano.Models.genruntimeconfig.cache
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj\Debug\net5.0\PlataformaOceano.Models.csproj.AssemblyReference.cache
