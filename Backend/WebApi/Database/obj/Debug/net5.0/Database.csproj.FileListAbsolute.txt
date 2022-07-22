@@ -1,0 +1,15 @@
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\bin\Debug\net5.0\Database.exe
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\bin\Debug\net5.0\Database.deps.json
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\bin\Debug\net5.0\Database.runtimeconfig.json
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\bin\Debug\net5.0\Database.runtimeconfig.dev.json
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\bin\Debug\net5.0\Database.dll
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\bin\Debug\net5.0\ref\Database.dll
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\bin\Debug\net5.0\Database.pdb
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\obj\Debug\net5.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\obj\Debug\net5.0\Database.AssemblyInfoInputs.cache
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\obj\Debug\net5.0\Database.AssemblyInfo.cs
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\obj\Debug\net5.0\Database.csproj.CoreCompileInputs.cache
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\obj\Debug\net5.0\Database.dll
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\obj\Debug\net5.0\ref\Database.dll
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\obj\Debug\net5.0\Database.pdb
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\Database\obj\Debug\net5.0\Database.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\bin\Debug\net5.0\PlataformaOceano.Models.exe
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\bin\Debug\net5.0\PlataformaOceano.Models.deps.json
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\bin\Debug\net5.0\PlataformaOceano.Models.runtimeconfig.json
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\bin\Debug\net5.0\PlataformaOceano.Models.runtimeconfig.dev.json
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\bin\Debug\net5.0\PlataformaOceano.Models.dll
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\bin\Debug\net5.0\ref\PlataformaOceano.Models.dll
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\bin\Debug\net5.0\PlataformaOceano.Models.pdb
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj\Debug\net5.0\PlataformaOceano.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj\Debug\net5.0\PlataformaOceano.Models.AssemblyInfoInputs.cache
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj\Debug\net5.0\PlataformaOceano.Models.AssemblyInfo.cs
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj\Debug\net5.0\PlataformaOceano.Models.csproj.CoreCompileInputs.cache
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj\Debug\net5.0\PlataformaOceano.Models.dll
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj\Debug\net5.0\ref\PlataformaOceano.Models.dll
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj\Debug\net5.0\PlataformaOceano.Models.pdb
+C:\Pantru\git\Testes\PlataformaOceano\Backend\WebApi\PlataformaOceano.Models\obj\Debug\net5.0\PlataformaOceano.Models.genruntimeconfig.cache
